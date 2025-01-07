@@ -7,7 +7,7 @@
    
 </div>
 <div align="center">
-    <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">👩‍💻 About Me 👩‍💻 </h2>
+    <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> About Me  </h2>
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">
         <p>Korea Univ. Sejong / Computer Software<br>
         언더독레볼루션<br>
