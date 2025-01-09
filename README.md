@@ -1,8 +1,5 @@
 
 <div align="center">
-   
-</div>
-<div align="center">
     <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> About Me  </h2>
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">
         <p>고려대 세종 / 컴퓨터융합소프트웨어<br>
@@ -30,6 +27,10 @@
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS EC2&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
 
+<div align="center">
+    <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Current  </h2>
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dgsim126&show_icons=true&theme=radical)<br>
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgsim126&layout=compact)-->
-    </div>
+
