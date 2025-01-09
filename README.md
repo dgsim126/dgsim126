@@ -32,6 +32,5 @@
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dgsim126&show_icons=true&theme=radical)<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devowl99&show_icons=true&theme=radical)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgsim126&layout=compact)
 
