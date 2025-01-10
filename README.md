@@ -34,7 +34,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dgsim126&show_icons=true&theme=radical)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgsim126&layout=compact)<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dgsim126)](https://solved.ac/백준아이디/)
-<img src="https://github.com/user-attachments/assets/8abec867-1908-49fc-99ba-95d1d912605b" alt="프로그래머스 이미지" style="width: 500px; height: auto;">
+<img src="https://github.com/user-attachments/assets/8abec867-1908-49fc-99ba-95d1d912605b" alt="프로그래머스 이미지" style="width: 520px; height: auto;">
 
 
 
