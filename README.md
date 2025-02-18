@@ -36,9 +36,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dgsim126&show_icons=true&theme=radical)<br>
 ![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/dgsim126?theme=dark&posts=3)<br>
-<a href="https://velog.io/@dgsim126">
-    <img src="https://velog-github-badge.vercel.app/badge/dgsim126?theme=dark&posts=3" style="border: 30px solid #FF0080; border-radius: 10px;">
-</a>
+![Velog GitHub stats](https://img.shields.io/badge/-Velog%20Stats-FF0080?style=flat&logo=velog&logoColor=white&labelColor=black)
+
 
 <img src="https://github.com/user-attachments/assets/67bdc995-d890-45ee-a45b-6d633ed83145" width="500"><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgsim126&layout=compact&theme=radical)
