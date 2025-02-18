@@ -39,7 +39,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgsim126&layout=compact)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dgsim126)](https://solved.ac/백준아이디/)<br>
 <img src="https://github.com/user-attachments/assets/67bdc995-d890-45ee-a45b-6d633ed83145" width="500"><br>
-<img src="https://github.com/user-attachments/assets/3a98da9f-b628-474c-9ffc-6623c4d47a62" width="500"><br>
 
 
 
