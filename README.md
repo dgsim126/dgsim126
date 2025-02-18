@@ -37,16 +37,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dgsim126&show_icons=true&theme=radical)<br>
 ![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/dgsim126?theme=dark&posts=3)<br>
 <img src="https://github.com/user-attachments/assets/67bdc995-d890-45ee-a45b-6d633ed83145" width="500"><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgsim126&layout=compact&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgsim126&layout=compact&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgsim126&layout=compact&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgsim126&layout=compact&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgsim126&layout=compact&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgsim126&layout=compact&theme=onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgsim126&layout=compact&theme=cobalt)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgsim126&layout=compact&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgsim126&layout=compact&theme=dracula)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dgsim126)](https://solved.ac/백준아이디/)<br>
 
 
