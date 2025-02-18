@@ -38,7 +38,8 @@
 ![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/dgsim126?theme=light&posts=3)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgsim126&layout=compact)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dgsim126)](https://solved.ac/백준아이디/)<br>
-<img src="https://github.com/user-attachments/assets/ddf9d2e4-785e-40ba-a586-b7759a3a4d6c" width="500">
+![image](https://github.com/user-attachments/assets/21b4e3b7-f7e2-4fdf-9d47-301700be48eb)
+
 
 
 
