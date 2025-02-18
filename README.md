@@ -35,7 +35,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dgsim126&show_icons=true&theme=radical)<br>
-![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/dgsim126?theme=light&posts=3)<br>
+![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/dgsim126?theme=dark&posts=3)<br>
 <img src="https://github.com/user-attachments/assets/67bdc995-d890-45ee-a45b-6d633ed83145" width="500"><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgsim126&layout=compact)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dgsim126)](https://solved.ac/백준아이디/)<br>
