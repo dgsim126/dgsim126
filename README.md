@@ -47,6 +47,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgsim126&layout=compact&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dgsim126)](https://solved.ac/백준아이디/)<br>
 ![깃허브 커밋 그래프](https://github-readme-activity-graph.vercel.app/graph?username=dgsim126&theme=react-dark)<br>
+![깃허브 커밋 그래프](https://github-readme-activity-graph.vercel.app/graph?username=dgsim126&theme=dark)<br>
 
 
 
