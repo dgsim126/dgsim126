@@ -3,10 +3,10 @@
     <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> About Me  </h2>
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">
         <p>고려대 세종 / 컴퓨터융합소프트웨어<br>
-        언더독레볼루션(UDR) <br>
+        언더독레볼루션 (UDR) <br>
         멋쟁이사자처럼 대학 12기<br><br>
-        정보처리기사(2024.12.11)<br>
-        SQLD(2024.09.20)<br>
+        정보처리기사 (2024.12.11)<br>
+        SQLD (2024.09.20)<br>
         </p>
     </div>
     
