@@ -36,6 +36,7 @@
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white">
 
 <div align="center">
     <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Current  </h2>
