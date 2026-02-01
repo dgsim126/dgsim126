@@ -1,4 +1,4 @@
-
+<!--
 <div align="center">
     <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> About Me  </h2>
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">
@@ -45,10 +45,12 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dgsim126&show_icons=true&theme=radical)<br>
 ![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/dgsim126?theme=dark&posts=3)<br>
 <!--<img src="https://github.com/user-attachments/assets/67bdc995-d890-45ee-a45b-6d633ed83145" width="500"><br>-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgsim126&layout=compact&theme=radical)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgsim126&layout=compact&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dgsim1001)](https://solved.ac/dgsim1001/)<br>
-![깃허브 커밋 그래프](https://github-readme-activity-graph.vercel.app/graph?username=dgsim126&theme=react-dark)<br>
+![깃허브 커밋 그래프](https://github-readme-activity-graph.vercel.app/graph?username=dgsim126&theme=react-dark)<br>-->
 
+
+Hello!
 
 
 
