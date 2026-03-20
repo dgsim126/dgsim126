@@ -57,7 +57,8 @@
 - OTKPRM (OTOKI PRM)        
 - OTKRPA (OTOKI RPA)
 
-
+## Recruitment Process
+- https://berry-output-0a4.notion.site/32992ec182fd800198f1c6433cec8fee
 
 
 
