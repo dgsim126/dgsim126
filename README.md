@@ -51,11 +51,7 @@
 
 
 
-## Responsibilities
-- OSCAR (OTOKI SCM)
-- OLS (OTOKI TMS)
-- OTKPRM (OTOKI PRM)
-- OTKRPA (OTOKI RPA)
+Hello
 
 
 
