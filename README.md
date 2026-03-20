@@ -57,6 +57,13 @@
 - OTKPRM (OTOKI PRM)        
 - OTKRPA (OTOKI RPA)
 
+## Current Focus
+- DB-driven Architecture (Direct Procedure Calls) 
+- Oracle Internal Architecture (Storage Structure)
+- Batch Processing 
+- Query Tuning 
+- Large Data Processing 
+
 ## Recruitment Process
 - https://berry-output-0a4.notion.site/32992ec182fd800198f1c6433cec8fee
 
