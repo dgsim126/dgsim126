@@ -50,8 +50,12 @@
 ![깃허브 커밋 그래프](https://github-readme-activity-graph.vercel.app/graph?username=dgsim126&theme=react-dark)<br>-->
 
 
-Hello!
 
+## Responsibilities
+- OSCAR (OTOKI SCM)
+- OLS (OTOKI TMS)
+- OTKPRM (OTOKI PRM)
+- OTKRPA (OTOKI RPA)
 
 
 
