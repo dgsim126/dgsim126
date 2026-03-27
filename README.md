@@ -49,7 +49,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dgsim1001)](https://solved.ac/dgsim1001/)<br>
 ![깃허브 커밋 그래프](https://github-readme-activity-graph.vercel.app/graph?username=dgsim126&theme=react-dark)<br>-->
 
-<!--
+
 
 ## Responsibilities        
 - OSCAR (OTOKI SCM)         
@@ -70,8 +70,7 @@
 ## Recruitment Experience
 - https://berry-output-0a4.notion.site/32992ec182fd800198f1c6433cec8fee
 
---> 
-hello
+
 
 
 
