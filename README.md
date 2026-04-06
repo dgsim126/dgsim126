@@ -2,11 +2,17 @@
 <div align="center">
     <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> About Me  </h2>
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">
+        SSAFY 알고리즘 B형 취득 (2025)<br>
+        OPIC IH (2025)<br>
+        TOEIC 890점 (2025)<br>
+        리눅스마스터 1급 (2025)<br>
+        빅데이터분석기사 (2025)<br>
+        정보통신기술실무능력시험(TOPCIT) 650점 (2025)<br>
+        SSAFY 14기<br>
+        SQLD (2024)<br>
+        정보처리기사 (2024)<br>
         언더독레볼루션 (UDR) <br>
         멋쟁이사자처럼 대학 12기 <br><br>
-        정보처리기사 (2024.12.11)<br>
-        SQLD (2024.09.20)<br><br>
-        SSAFY 14기<br>
         </p>
     </div>
     
@@ -67,10 +73,10 @@
 - Robotic Process Automation <br><br>
 -->
 
-
+<!--
 ## Recruitment Experience
 - https://berry-output-0a4.notion.site/32992ec182fd800198f1c6433cec8fee
-
+-->
 
 
 
